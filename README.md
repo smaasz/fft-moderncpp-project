@@ -1,4 +1,4 @@
-# Implementation of a Fast Fourier Transform in Moderne C++
+# Implementation of a Fast Fourier Transform in Modern C++
 
 ## Introduction
 
