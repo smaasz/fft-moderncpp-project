@@ -4,6 +4,7 @@
 
 Implementation of mixed-radix, depth-first and breadth-first Fast Fourier transform.
 The main algorithms are contained in ffts.hpp as function templates.
+Additional information including explanations of the algorithms are included in the [report](fft_report.pdf).
 
 ## Requirements
 The external library [FFTW](https://www.fftw.org/download.html) is used.
